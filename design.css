@@ -1,4 +1,14 @@
 body
 {
-    background-color: burlywood;
+    background-color: purple;
+}
+
+div
+{
+    border: 1px solid red;
+    background-color: aqua;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
 }
